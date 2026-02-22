@@ -59,5 +59,5 @@ load_csv() {
 
 load_csv Parque parque_automotor id_vehiculo
 load_csv Matriculas matriculas consecutivo
-load_csv Cancelados cancelados parqcanc_idvehiculo
+load_csv Cancelados cancelados parqcanc_idvehiculo # ;
 load_csv Traspasos traspasos

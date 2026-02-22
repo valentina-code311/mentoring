@@ -56,7 +56,7 @@ CREATE TABLE parque_automotor (
   nombrecomertaxi text
 );
 
-CREATE TABLE trapasos (
+CREATE TABLE traspasos (
   id_vehiculo text,
   anno_traspaso text,
   mes_traspaso text,
